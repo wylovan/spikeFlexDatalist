@@ -1,0 +1,6 @@
+div#imx-base {position:relative; width:80%; left:10%; padding:1em; border:1px solid; overflow-x:auto; text-align:center;}
+div.imx-datalist {width:35em; margin:5em auto;}
+div.imx-datalist input {width:100%; padding:.75em; border-color:#B8860B; border-radius:.35em;}
+ul.flexdatalist-results span.item-name {font-weight:bold;}
+ul.flexdatalist-results span.item-desc {font-size:80%;}
+div#imx-results {min-height:2em;}

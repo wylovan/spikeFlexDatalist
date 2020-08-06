@@ -1,0 +1,356 @@
+[
+    {
+        "name": "qti-labels-none",
+        "desc": "No labels displayed.",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti-order-interaction"
+        ]
+    },
+    {
+        "name": "qti-labels-decimal",
+        "desc": "Display numeric characters 1, 2, 3, \u2026",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti-order-interaction"
+        ]
+    },
+    {
+        "name": "qti-labels-lower-alpha",
+        "desc": "Display lowercase characters a, b, c, \u2026",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti-order-interaction"
+        ]
+    },
+    {
+        "name": "qti-labels-upper-alpha",
+        "desc": "Display uppercase characters A, B, C, \u2026",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti-order-interaction"
+        ]
+    },
+    {
+        "name": "qti-labels-suffix-none",
+        "desc": "No character is displayed after the choice label.",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti-order-interaction"
+        ]
+    },
+    {
+        "name": "qti-labels-suffix-period",
+        "desc": "A period \u201c.\u201d character is displayed after the choice label.",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti-order-interaction"
+        ]
+    },
+    {
+        "name": "qti-labels-suffix-parenthesis",
+        "desc": "A right parenthesis \u201c)\u201d character is displayed after the choice label.",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti-order-interaction"
+        ]
+    },
+    {
+        "name": "qti-orientation-vertical",
+        "desc": "Choices are displayed from top to bottom, vertically.",
+        "context": ["qti:qti-choice-interaction"]
+    },
+    {
+        "name": "qti-orientation-horizontal",
+        "desc": "Choices are displayed from left to right, horizontally.",
+        "context": ["qti:qti-choice-interaction"]
+    },
+    {
+        "name": "qti-choices-stacking-1",
+        "desc": "Choices are stacked in 1 column.",
+        "context": ["qti:qti-choice-interaction"]
+    },
+    {
+        "name": "qti-choices-stacking-2",
+        "desc": "Choices are stacked in 2 columns.",
+        "context": ["qti:qti-choice-interaction"]
+    },
+    {
+        "name": "qti-choices-stacking-3",
+        "desc": "Choices are stacked in 3 columns.",
+        "context": ["qti:qti-choice-interaction"]
+    },
+    {
+        "name": "qti-choices-stacking-4",
+        "desc": "Choices are stacked in 4 columns.",
+        "context": ["qti:qti-choice-interaction"]
+    },
+    {
+        "name": "qti-choices-stacking-5",
+        "desc": "Choices are stacked in 5 columns.",
+        "context": ["qti:qti-choice-interaction"]
+    },
+    {
+        "name": "qti-input-control-hidden",
+        "desc": "Hide the input controls of the choices.",
+        "context": [
+            "qti:qti-choice-interaction",
+            "qti:qti-hottext-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-1",
+        "desc": "Input element width at least 1 character.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-2",
+        "desc": "Input element width at least 2 characters.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-3",
+        "desc": "Input element width at least 3 characters.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-4",
+        "desc": "Input element width at least 4 characters.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-6",
+        "desc": "Input element width at least 6 characters.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-10",
+        "desc": "Input element width at least 10 characters.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-15",
+        "desc": "Input element width at least 15 characters.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-20",
+        "desc": "Input element width at least 20 characters.",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-input-width-72",
+        "desc": "Input element width at least 72 characters. (Intended to be interpreted as the full width of a tablet.)",
+        "context": [
+            "qti:qti-text-entry-interaction",
+            "qti:qti-gap",
+            "qti:qti-inline-choice-interaction"
+        ]
+    },
+    {
+        "name": "qti-height-lines-3",
+        "desc": "Input area is approximately 3 lines tall.",
+        "context": ["qti:qti-extended-text-interaction"]
+    },
+    {
+        "name": "qti-height-lines-6",
+        "desc": "Input area is approximately 6 lines tall.",
+        "context": ["qti:qti-extended-text-interaction"]
+    },
+    {
+        "name": "qti-height-lines-15",
+        "desc": "Input area is approximately 15 lines tall.",
+        "context": ["qti:qti-extended-text-interaction"]
+    },
+    {
+        "name": "qti-counter-down",
+        "desc": "Display a character counter, starting at the value of the expected-length attribute and counting down to 0.",
+        "context": ["qti:qti-extended-text-interaction"]
+    },
+    {
+        "name": "qti-counter-up",
+        "desc": "Display a character counter, starting at 0 and increasing to the value of the expected-length attribute.",
+        "context": ["qti:qti-extended-text-interaction"]
+    },
+    {
+        "name": "qti-choices-top",
+        "desc": "The gap choices container is displayed above the passage text.",
+        "context": [
+            "qti:qti-gap-match-interaction",
+            "qti:qti-match-interaction",
+            "qti-order-interaction",
+            "qti-graphic-gap-match-interaction"
+        ]
+    },
+    {
+        "name": "qti-choices-bottom",
+        "desc": "The gap choices container is displayed below the passage text.",
+        "context": [
+            "qti:qti-gap-match-interaction",
+            "qti:qti-match-interaction",
+            "qti-order-interaction",
+            "qti-graphic-gap-match-interaction"
+        ]
+    },
+    {
+        "name": "qti-choices-left",
+        "desc": "The gap choices container is displayed to the left of the passage text.",
+        "context": [
+            "qti:qti-gap-match-interaction",
+            "qti:qti-match-interaction",
+            "qti-order-interaction",
+            "qti-graphic-gap-match-interaction"
+        ]
+    },
+    {
+        "name": "qti-choices-right",
+        "desc": "The gap choices container is displayed to the right of the passage text.",
+        "context": [
+            "qti:qti-gap-match-interaction",
+            "qti:qti-match-interaction",
+            "qti-order-interaction",
+            "qti-graphic-gap-match-interaction"
+        ]
+    },
+    {
+        "name": "qti-selections-light",
+        "desc": "Delivery platform must implement hotspot selections in a color that the platform believes to be of suitable color contrast and opacity against a \u201cdark\u201d background image.",
+        "context": [
+            "qti:qti-hotspot-interaction",
+            "qti-graphic-gap-match-interaction"
+        ]
+    },
+    {
+        "name": "qti-selections-dark",
+        "desc": "Delivery platform must implement hotspot selections in a color that the platform believes to be of suitable color contrast and opacity against a \u201clight\u201d background image.",
+        "context": [
+            "qti:qti-hotspot-interaction",
+            "qti-graphic-gap-match-interaction"
+        ]
+    },
+    {
+        "name": "qti-unselected-hidden",
+        "desc": "Hotspot selections are visually hidden until focused or selected.",
+        "context": [
+            "qti:qti-hotspot-interaction",
+            "qti-graphic-gap-match-interaction"
+        ]
+    },
+    {
+        "name": "qti-match-tabular",
+        "desc": "Render a visual table with the choices of the first Simple Match Set as the table row headers, and the choices of the second Simple Match Set as the table column headers.",
+        "context": ["qti:qti-match-interaction"]
+    },
+    {
+        "name": "qti-header-hidden",
+        "desc": "For certain presentations, it can be advantageous to hide the column headers.  This class enables this presentation.  Do not display the top row of the table where the column headers are displayed.",
+        "context": ["qti:qti-match-interaction"]
+    },
+    {
+        "name": "qti-underline",
+        "desc": "Underline an element.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-italic",
+        "desc": "Italicize an element.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-align-left",
+        "desc": "Horizontal alignment left.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-align-center",
+        "desc": "Horizontal alignment center.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-align-right",
+        "desc": "Horizontal alignment right.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-valign-top",
+        "desc": "Vertical alignment top.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-valign-middle",
+        "desc": "Vertical alignment middle.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-valign-baseline",
+        "desc": "Vertical alignment baseline.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-valign-bottom",
+        "desc": "Vertical alignment bottom.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-fullwidth",
+        "desc": "Set the width of the element to 100% of the width of the element\u2019s container.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-hidden",
+        "desc": "A completely hidden element is neither visually-perceptible nor \u201cvisible\u201d to assistive technology.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-visually-hidden",
+        "desc": "A visually hidden element is not visually perceptible.  However, it is \u201cvisible\u201d to assistive technology.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-bordered",
+        "desc": "Adds a visual border to an element.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-well",
+        "desc": "Adds a \u201cwell\u201d to an element.  A \u201cwell\u201d is a UI convention of adding visual importance to an element.  Increased visual importance is usually achieved by adding both a border and background + foreground colors to the element.  The background color should be chosen by the delivery platform so as not violate WCAG AA guidelines for foreground color textual contrast.",
+        "context": ["*"]
+    },
+    {
+        "name": "qti-layout-row",
+        "desc": "Adds a \u201cwell\u201d to an element.  A \u201cwell\u201d is a UI convention of adding visual importance to an element.  Increased visual importance is usually achieved by adding both a border and background + foreground colors to the element.  The background color should be chosen by the delivery platform so as not violate WCAG AA guidelines for foreground color textual contrast.",
+        "context": ["*"]
+    }
+]
