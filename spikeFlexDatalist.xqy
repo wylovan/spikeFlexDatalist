@@ -1,5 +1,12 @@
 xquery version "1.0-ml";
 
+(:
+    spikeFlexDatalist.xqy - Spike of the FlexDatalist component.
+    
+    http://projects.sergiodinislopes.pt/flexdatalist/
+    https://github.com/sergiodlopes/jquery-flexdatalist
+:)
+
 declare default element namespace "http://www.w3.org/1999/xhtml";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
